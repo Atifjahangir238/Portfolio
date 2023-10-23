@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+nav {
+    margin-top: 2%;
+}
+
+
+.about-me {
+
+    display: flex;
+    margin: auto;
+    padding-bottom: 15%;
+}
+
+.f-left {
+
+    float: left;
+}
+
+.icon-img {
+    display: flex;
+    margin: auto;
+    width: 15%;
+    cursor: pointer;
+}
+
+.row {
+    align-items: center;
+}
+
+.h-more {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 5%;
+}
+
+.exp {
+    float: left;
+    border: 2px solid black;
+    border-radius: 10px;
+    justify-content: space-around;
+    width: 49%;
+    margin: 2px;
+    padding: 10px 25px;
+
+}
+
+.exp img {
+    width: 18%;
+}
+
+.edu img {
+    width: 11%;
+}
+
+.edu {
+    float: right;
+    border: 2px solid black;
+    border-radius: 10px;
+    justify-content: space-around;
+    width: 49%;
+    margin: 2px;
+    padding: 10px 25px;
+
+}
+
+.about-more {
+    margin-bottom: 10%;
+
+}
+
+.more-para {
+    clear: both;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+.more-about {
+    display: flex;
+    margin: auto;
+
+}
+
+.htmlcss {
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+
+.js1 {
+    height: 45px;
+}
+
+.experience {
+    margin-bottom: 10%;
+}
+
+.con-center {
+    display: block;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    margin-bottom: 10%;
+    padding: 1rem;
+}
+
+.l123 {
+   color: rgba(0, 0, 255, 0.986);
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+.con-center img {
+ 
+height: 30px;
+width: 30px;
+    cursor: pointer;
+}
+.link-nav{
+display: block;
+margin: auto;
+margin-bottom: 10px;
+}
+.p-more{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
